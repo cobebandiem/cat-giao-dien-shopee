@@ -3,4 +3,3 @@ Cắt giao diện shopee gồm:
 -ProductDetailsPage - Responsive.
 -CartPage - Responsive.
 -Validate Form;
-(Được hưỡng dẫn bởi F8-Office)
